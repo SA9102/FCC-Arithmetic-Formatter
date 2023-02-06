@@ -1,4 +1,4 @@
-# Arithmetic Formatter
+# FCC Arithmetic Formatter
 
 A program that takes in a list of problems and returns the problems arranged vertically and side-by-side (a way in which primary school students often use in order to make them easier to solve).
 
