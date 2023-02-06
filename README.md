@@ -2,7 +2,7 @@
 
 A program that takes in a list of problems and returns the problems arranged vertically and side-by-side (a way in which primary school students often use in order to make them easier to solve).
 
-[View code on Replit.](https://replit.com/@SA907/FCC-Arithmetic-Formatter#arithmetic_arranger.py)
+[View code on Replit.](https://replit.com/@SA907/FCC-Arithmetic-Formatter?v=1)
 
 This code was created for [freeCodeCamp](https://www.freecodecamp.org/), as part of the Scientific Computing with Python course.
 
